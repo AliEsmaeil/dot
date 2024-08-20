@@ -34,9 +34,16 @@ you could see screenshots singularly, just go to [screenshots dir](screenshots).
 
 You can simply follow this steps:
 
-1. `git clone repo-link`
+1.
+   ```
+   git clone https://github.com/AliEsmaeil/dot.git
+   ```
 2. open the app in an IDE, and it's supposed that you have `flutter` installed on your machine.
-3. `flutter pub get`
+   
+3.
+   ```
+   flutter pub get
+   ```
 
 You are free to run, go ahead.
 
